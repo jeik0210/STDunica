@@ -1,0 +1,12 @@
+<?php
+////////////////////////////////CONEXION//////////////////////////
+
+	$conexion = mysql_connect('localhost','root','');
+	mysql_select_db('unica_tramite',$conexion);
+//////////////////////////////////////////////////////////////////
+
+//PARA CONECTARSE CON LA BASE DE DATOS DE SIGU
+
+
+
+?>
